@@ -1,4 +1,4 @@
-import './header.css'
+import './Header.css'
 import frame from '../../assets/Frame 28.png'
 export default function Header() {
     return <>

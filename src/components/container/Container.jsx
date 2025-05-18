@@ -1,7 +1,7 @@
 
 import './Container.css'
 import Footer from '../footer/Footer'
-import Header from '../header/Header'
+import Header from '../Header/Header'
 import Section from '../section/Section'
 
 export default function Container() {

@@ -1,5 +1,5 @@
-import "./section.css"
-import { Button } from "../header/Header"
+import "./Section.css"
+import { Button } from "../Header/Header"
 import rectangle17 from "../../assets/Rectangle 17.png"
 import rectangle171 from "../../assets/Rectangle 17 (1).png"
 import frame from '../../assets/Frame (33).png'
