@@ -1,0 +1,17 @@
+.divAll {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.divP {
+    display: flex;
+    gap: 20px;
+}
+
+.felx {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+
