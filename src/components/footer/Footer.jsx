@@ -1,4 +1,4 @@
-import "./footer.css"
+import "./Footer.css"
 import frame from '../../assets/Frame 28.png'
 
 export default function Footer() {
